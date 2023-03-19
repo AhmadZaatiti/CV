@@ -221,7 +221,7 @@ h6 {
 #hero {
   width: 100%;
   height: 100vh;
-  background: url("../img/hero-b.jpg") top right;
+  background: url("../img/hero-b.jpg") right 33% center;
   background-size: cover;
 }
 
@@ -240,7 +240,6 @@ h6 {
   position: relative;
   z-index: 2;
   min-width: 300px;
-  margin-right: 190px;
 
 }
 
@@ -870,13 +869,13 @@ section {
   padding: 20px 0 30px 0;
 }
 
-.contact .info-box i.bx {
+/* .contact .info-box i.bx {
   font-size: 24px;
   color: #fff6e4;
   border-radius: 50%;
   padding: 15px;
   background: #149ddd;
-}
+} */
 
 .contact .info-box h3 {
   font-size: 20px;
@@ -974,7 +973,6 @@ section {
     display: inline-block;
   }
 }
-
 
 
 /*--------------------------------------------------------------
